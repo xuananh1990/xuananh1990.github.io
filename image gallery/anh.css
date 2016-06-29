@@ -1,0 +1,33 @@
+
+a{
+   font-size: 20px;
+  }
+a:link{
+	color: blue;
+	background: transparent;
+	text-decoration: none;
+}
+a:visited{
+	color: red;
+	background: transparent;
+	text-decoration: none;
+}
+a:hover{
+	color: purple;
+	text-decoration: blink;
+	font-weight: bold;
+}
+.cho{
+	border:0 ;
+	border-top-width: 0;
+	float: left;
+	padding: 50px;
+}
+#main-menu a{
+   
+	padding: 10px;
+
+}
+.cho img:hover{
+	border-radius: 100%;
+}
